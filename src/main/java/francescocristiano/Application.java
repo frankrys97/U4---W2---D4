@@ -180,9 +180,6 @@ public class Application {
         totalByCategory.forEach((category, total) -> System.out.println("La categoria " + category + " ha una somma totale di " + total + " €."));
 
 
-        // Esercizio 6 - giorno 4
-
-        
     }
 
 }

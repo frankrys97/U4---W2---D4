@@ -1,0 +1,13 @@
+Product{id=916576858206276629, name= 'Shirt 493', category= 'BOYS', price= 19.65}
+Product{id=9207416760702760370, name= 'Book 812', category= 'BOOKS', price= 4.31}
+Product{id=8453989958764211899, name= 'Toy 707', category= 'TOYS', price= 3.54}
+Product{id=1744141745100243999, name= 'Diaper 398', category= 'BABY', price= 9.67}
+Product{id=1407719188796767791, name= 'Toy 971', category= 'TOYS', price= 12.51}
+Product{id=3879433934538463969, name= 'Laptop 714', category= 'ELECTRONICS', price= 1.17}
+Product{id=5058468928863801507, name= 'Diaper 558', category= 'BABY', price= 2.14}
+Product{id=8015955914230720154, name= 'Diaper 362', category= 'BABY', price= 18.69}
+Product{id=6087648208133810151, name= 'Toy 867', category= 'TOYS', price= 11.66}
+Product{id=2267273949715135312, name= 'Toy 707', category= 'TOYS', price= 11.17}
+Product{id=140361834805396601, name= 'Laptop 904', category= 'ELECTRONICS', price= 12.03}
+Product{id=2355996401239678807, name= 'Diaper 602', category= 'BABY', price= 15.23}
+Product{id=8591729339277516209, name= 'Book 427', category= 'BOOKS', price= 4.89}
