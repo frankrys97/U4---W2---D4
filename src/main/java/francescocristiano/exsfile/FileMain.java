@@ -40,7 +40,7 @@ public class FileMain {
         salvaProdottiSuDisco(products5, file);
 
 
-        leggiProdottiDaDisco(file);
+        System.out.println(leggiProdottiDaDisco(file));
 
     }
 
@@ -53,11 +53,16 @@ public class FileMain {
         }
     }
 
-    public static void leggiProdottiDaDisco(File file) {
+    public static List leggiProdottiDaDisco(File file) {
         try {
-            System.out.println(FileUtils.readFileToString(file, "UTF-8"));
+            String content = FileUtils.readFileToString(file, "UTF-8");
+            List<String> lines = new ArrayList<>(List.of(content.split(System.lineSeparator())));
+
+            return lines;
+
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+
     }
 }
